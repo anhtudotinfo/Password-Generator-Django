@@ -1,0 +1,13 @@
+.navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(0, 8, 255, 1) !important;
+}
+
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
